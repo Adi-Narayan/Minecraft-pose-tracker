@@ -1,3 +1,5 @@
+![minecraft pose cover](https://github.com/user-attachments/assets/1940b3e5-b9a3-42ed-abf8-7b56e0e74724)
+
 Python script to play Minecraft without using a mouse or a keyboard.
 This script uses OpenCV to track body poses, using the mediapipe library and translates it on the game.
 
